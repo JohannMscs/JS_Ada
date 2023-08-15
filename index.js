@@ -1,0 +1,1 @@
+console.log("Javascript sendo integrado no navegador")
